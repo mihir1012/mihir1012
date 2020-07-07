@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **mihir1012/mihir1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## i am Mihir Mehta
-#      A computer engineering Student
-#      An Android developer
-#      A Web Developer
+###      A computer engineering Student
+###      An Android developer
+###      A Web Developer
        Exploring with Enthusiasm for Opportunities with a hint of Luck  
