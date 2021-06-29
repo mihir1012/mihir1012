@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ## i am Mihir Mehta
 ###      A computer engineering Student
 ###      An Android developer
-###      A Web Developer
+
        Exploring with Enthusiasm for Opportunities with a hint of Luck  
