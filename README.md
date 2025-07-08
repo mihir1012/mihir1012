@@ -1,21 +1,42 @@
-# Hi there 👋
+# 👋 Hi, I'm Mihir Mehta
 
-<!--
-**mihir1012/mihir1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Android Developer** who loves crafting fast, scalable, and user-friendly mobile apps. With a strong foundation in **Jetpack Compose**, **Kotlin**, and **clean architecture**, I enjoy solving complex problems and building smooth user experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## i am Mihir Mehta
-###      A computer engineering Student
-###      An Android developer
+## 🔧 Tech Stack
 
-       Exploring with Enthusiasm for Opportunities with a hint of Luck  
+- **Languages**: Kotlin, Java, XML
+- **Frameworks**: Jetpack Compose, Android SDK, Hilt/Dagger, Coroutines, Room, Retrofit
+- **Architecture**: MVVM, Clean Architecture, MVI, Modularization
+- **Tooling**: Android Studio, Gradle, GitHub Actions, Firebase, Fastlane
+- **Testing**: JUnit, Espresso
+
+---
+
+## 🧪 Currently Exploring
+
+- 🌐 Kotlin Multiplatform (KMP)
+- 🛠️ Compose for Desktop & Web
+- 🤖 ML on Android (TFLite, ML Kit)
+- 🔐 Advanced Mobile Security (Play Integrity, EncryptedStorage)
+
+---
+
+## 🤝 Looking to Collaborate On
+
+- Open-source Android libraries or utilities
+- Modern UI samples with Jetpack Compose
+- Android testing frameworks or DevOps tools
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mihirmehta1012/)
+- ✍️ [Portfolio](https://mihir1012.github.io)
+- 📧 mihirhm245@gmail.com
+
+---
+
+> “First solve the problem. Then, write the code.” – John Johnson
